@@ -13,54 +13,54 @@ let handler = async(m, { conn }) => {
 ⬡ 𝙐𝙨𝙚𝙧𝙨 𝙙𝙞𝙝𝙖𝙧𝙖𝙥 𝙪𝙣𝙩𝙪𝙠 𝙩𝙞𝙙𝙖𝙠 𝙢𝙚𝙣𝙮𝙖𝙡𝙖𝙝 𝙜𝙪𝙣𝙖𝙠𝙖𝙣 𝙛𝙞𝙩𝙪𝙧 𝙛𝙞𝙩𝙪𝙧 𝙗𝙤𝙩.
 ╰═════════════════════════
 ╭═════〘 𝗞𝗘𝗕𝗜𝗝𝗔𝗞𝗔𝗡 𝗣𝗥𝗜𝗩𝗔𝗦𝗜 〙═══
-1. 𝙇𝙮𝙣𝙓𝙯𝙮 𝙩𝙞𝙙𝙖𝙠 𝙖𝙠𝙖𝙣 𝙢𝙚𝙧𝙚𝙠𝙖𝙢 𝙙𝙖𝙩𝙖 𝙧𝙞𝙬𝙖𝙮𝙖𝙩 𝙘𝙝𝙖𝙩 𝙪𝙨𝙚𝙧.
-2. 𝙇𝙮𝙣𝙓𝙯𝙮 𝙩𝙞𝙙𝙖𝙠 𝙖𝙠𝙖𝙣 𝙢𝙚𝙣𝙮𝙚𝙗𝙖𝙧𝙠𝙖𝙣 𝙣𝙤𝙢𝙤𝙧 𝙪𝙨𝙚𝙧𝙨.
-3. 𝙇𝙮𝙣𝙓𝙯𝙮 𝙩𝙞𝙙𝙖𝙠 𝙖𝙠𝙖𝙣 𝙢𝙚𝙣𝙮𝙞𝙢𝙥𝙖𝙣 𝙢𝙚𝙙𝙞𝙖 𝙮𝙖𝙣𝙜 𝙙𝙞𝙠𝙞𝙧𝙞𝙢𝙠𝙖𝙣 𝙤𝙡𝙚𝙝 𝙪𝙨𝙚𝙧𝙨.
-4. 𝙇𝙮𝙣𝙓𝙯𝙮 𝙩𝙞𝙙𝙖𝙠 𝙖𝙠𝙖𝙣 𝙢𝙚𝙣𝙮𝙖𝙡𝙖𝙝 𝙜𝙪𝙣𝙖𝙠𝙖𝙣 𝙙𝙖𝙩𝙖 𝙙𝙖𝙩𝙖 𝙪𝙨𝙚𝙧𝙨.
-5. 𝙊𝙬𝙣𝙚𝙧 𝙇𝙮𝙣𝙓𝙯𝙮 𝙗𝙚𝙧𝙝𝙖𝙠 𝙢𝙚𝙡𝙞𝙝𝙖𝙩 𝙙𝙖𝙩𝙖 𝙧𝙞𝙬𝙖𝙮𝙖𝙩 𝙘𝙝𝙖𝙩 𝙪𝙨𝙚𝙧𝙨.
-6. 𝙊𝙬𝙣𝙚𝙧 𝙇𝙮𝙣𝙓𝙯𝙮 𝙗𝙚𝙧𝙝𝙖𝙠 𝙢𝙚𝙡𝙞𝙝𝙖𝙩 𝙨𝙩𝙖𝙩𝙪𝙨 𝙪𝙨𝙚𝙧𝙨.
-7. 𝙊𝙬𝙣𝙚𝙧 𝙇𝙮𝙣𝙓𝙯𝙮 𝙙𝙖𝙥𝙖𝙩 𝙢𝙚𝙡𝙞𝙝𝙖𝙩 𝙧𝙞𝙬𝙖𝙮𝙖𝙩 𝙘𝙝𝙖𝙩, 𝙙𝙖𝙣 𝙢𝙚𝙙𝙞𝙖 𝙮𝙖𝙣𝙜 𝙙𝙞𝙠𝙞𝙧𝙞𝙢𝙠𝙖𝙣 𝙪𝙨𝙚𝙧𝙨.
+1. 𝙕𝙚𝙚𝙮 𝙩𝙞𝙙𝙖𝙠 𝙖𝙠𝙖𝙣 𝙢𝙚𝙧𝙚𝙠𝙖𝙢 𝙙𝙖𝙩𝙖 𝙧𝙞𝙬𝙖𝙮𝙖𝙩 𝙘𝙝𝙖𝙩 𝙪𝙨𝙚𝙧.
+2. 𝙕𝙚𝙚𝙮 𝙩𝙞𝙙𝙖𝙠 𝙖𝙠𝙖𝙣 𝙢𝙚𝙣𝙮𝙚𝙗𝙖𝙧𝙠𝙖𝙣 𝙣𝙤𝙢𝙤𝙧 𝙪𝙨𝙚𝙧𝙨.
+3. 𝙕𝙚𝙚𝙮 𝙩𝙞𝙙𝙖𝙠 𝙖𝙠𝙖𝙣 𝙢𝙚𝙣𝙮𝙞𝙢𝙥𝙖𝙣 𝙢𝙚𝙙𝙞𝙖 𝙮𝙖𝙣𝙜 𝙙𝙞𝙠𝙞𝙧𝙞𝙢𝙠𝙖𝙣 𝙤𝙡𝙚𝙝 𝙪𝙨𝙚𝙧𝙨.
+4. 𝙕𝙚𝙚𝙮 𝙩𝙞𝙙𝙖𝙠 𝙖𝙠𝙖𝙣 𝙢𝙚𝙣𝙮𝙖𝙡𝙖𝙝 𝙜𝙪𝙣𝙖𝙠𝙖𝙣 𝙙𝙖𝙩𝙖 𝙙𝙖𝙩𝙖 𝙪𝙨𝙚𝙧𝙨.
+5. 𝙊𝙬𝙣𝙚𝙧 𝙕𝙚𝙚𝙮 𝙗𝙚𝙧𝙝𝙖𝙠 𝙢𝙚𝙡𝙞𝙝𝙖𝙩 𝙙𝙖𝙩𝙖 𝙧𝙞𝙬𝙖𝙮𝙖𝙩 𝙘𝙝𝙖𝙩 𝙪𝙨𝙚𝙧𝙨.
+6. 𝙊𝙬𝙣𝙚𝙧 𝙕𝙚𝙚𝙮 𝙗𝙚𝙧𝙝𝙖𝙠 𝙢𝙚𝙡𝙞𝙝𝙖𝙩 𝙨𝙩𝙖𝙩𝙪𝙨 𝙪𝙨𝙚𝙧𝙨.
+7. 𝙊𝙬𝙣𝙚𝙧 𝙕𝙚𝙚𝙮 𝙙𝙖𝙥𝙖𝙩 𝙢𝙚𝙡𝙞𝙝𝙖𝙩 𝙧𝙞𝙬𝙖𝙮𝙖𝙩 𝙘𝙝𝙖𝙩, 𝙙𝙖𝙣 𝙢𝙚𝙙𝙞𝙖 𝙮𝙖𝙣𝙜 𝙙𝙞𝙠𝙞𝙧𝙞𝙢𝙠𝙖𝙣 𝙪𝙨𝙚𝙧𝙨.
 ╰═════════════════════════
 ║╭─────❉ 〔 𝗦𝗧𝗔𝗧𝗨𝗦 𝗕𝗢𝗧 〕 ❉─────
 ║│➥ *name:* 𝙇𝙮𝙣𝙓𝙯𝙮
-║│➥ *HomePage:* github.com/LANxBOT
-║│➥ *Issue:* https://github.com/LANxBOT
+║│➥ *HomePage:* github.com/
+║│➥ *Issue:* https://github.com/
 ║│➥ *Total user:* *${Object.keys(global.db.data.users).length}* Pengguna
 ║╰──────────────────
 ║╭─────❉〘 𝘿𝙊𝙉𝘼𝙎𝙄 〙❉───── 
-║│➥ Digi : 60149431385
-║│➥ Umobile : 60189830350
+║│➥ Dana : 62895395165760
+║│➥ Pulsa : 62895395165760
 ║╰──────────────────
 ║╭─────❉〘 𝗥𝗘𝗤𝗨𝗘𝗦𝗧 〙❉─────
-║│➥https://github.com/LANxBOT
+║│➥https://github.com/zalZEEY
 ║╰──────────────────
 ╠════════════════════════
 ║╭────❉ 「 𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘿𝙄𝘼 」 ❉─────
 ║│ ❍ *𝗢𝗪𝗡𝗘𝗥*          :
-║│ wa.me/60189830350
+║│ wa.me/62895395165760
 ║│ ❍ *𝗬𝗢𝗨𝗧𝗨𝗕𝗘*               :
-║│ https://tinyurl.com/ya49ovfp
+║│ https://tinyurl.com/
 ║│ ❍ *𝗧𝗜𝗞𝗧𝗢𝗞*                   :
-║│ https://vt.tiktok.com/ZSeos3uX5/
+║│ https://vt.tiktok.com/
 ║╰──────────────────
 ╠════════════════════════
 ║╭─────────────────
-║│ ©𝗕𝗮𝘀𝗲𝗡𝗲𝘄 𝙇𝙮𝙣𝙓𝙯𝙮
-║│ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝙗𝙮 𝙇𝙖𝙣𝙓𝙯𝙮👑
+║│ ©𝗕𝗮𝘀𝗲𝗡𝗲𝘄 𝙕𝙚𝙚𝙮
+║│ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 𝙗𝙮 𝙕𝙚𝙚𝙮👑
 ║╰──────────────────
 ╠════════════════════════
 ║╭─────────────────
 ║│ ©𝟮𝟬𝟮𝟭 𝗥𝗽𝗴 𝘄𝗮𝗯𝗼𝘁-𝗮𝗾
-║│ 𝗦𝗰𝗿𝗶𝗽 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝗯𝘆 𝗟𝗮𝗻𝗫𝘇𝘆
+║│ 𝗦𝗰𝗿𝗶𝗽 𝗼𝗿𝗶𝗴𝗶𝗻𝗮𝗹 𝗯𝘆 𝙕𝙚𝙚𝙮
 ║╰──────────────────
-╰═════〘 𝙇𝙮𝙣𝙓𝙯𝙮 *_?_*〙 ═`.trim()
+╰═════〘 𝙕𝙚𝙚𝙮 *_?_*〙 ═`.trim()
   const button = {
         buttonText: 'Klik Di sini',
         description: kontol,
         sections:  [{title: "Silahkan di pilih gausah pilih yang gaada", rows: [
         {title: 'Menu Utama', description: "Kembali ke Menu Utama", rowId:".?"},
         {title: 'Sewa Bot', description: "Sewa bot dengan memasukkan bot ke grup kamu", rowId:".sewa"},
-        {title: 'Group Bot', description: "Official Group Bot Lyn", rowId:".gcbot"},
+        {title: 'Group Bot', description: "Official Group Bot Zeey", rowId:".gcbot"},
         {title: 'Cara Invit?', description: "Cara Memasukkan Bot Di GC", rowId:".tutorbot"},
         {title: 'Owner', description: "Owner/Creator Bot", rowId:".owner"},
        ] }],
